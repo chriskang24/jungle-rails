@@ -1,3 +1,9 @@
+<% if enhanced_cart == [] %>
+<h1> No items in your cart! </h1>
+<%= link_to 'There are no items in your cart!, Here is a link to go back home!', :root %>
+
+<% else %>
+
 <section class="cart-show">
 
   <header class="page-header">
@@ -50,3 +56,5 @@
   </div>
 
 </section>
+
+<% end %>
