@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails version 4.2
+
+## Final Product Preview:
+
+Checkout Functionality with Stripe
+
+![Jungle Checkout](https://user-images.githubusercontent.com/75704947/110709296-fdb77380-81c9-11eb-82f1-654457450894.gif)
 
 
 ## Setup
